@@ -1,2 +1,2 @@
-# AI_Session42_Assignment6
-DeepLearningAssignments
+# DeepLearningAssignments
+Deep Learning Assignments on ANN network
